@@ -21,7 +21,8 @@ img {
 }
 
 blockquote {
-  font-size: 28px;
+  font-size: 26px;
+  text-align: center;
 }
 
 sup, .sup {
