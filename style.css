@@ -171,6 +171,12 @@ header.p-section {
   text-decoration: none;
 }
 
+.col-6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .inner {
   display: flex;
   justify-content: center;
