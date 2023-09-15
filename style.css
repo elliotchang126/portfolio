@@ -166,3 +166,13 @@ header.p-section {
 .lead:first-of-type {
   padding-top: 1rem;
 }
+
+.hobbies {
+  text-decoration: none;
+}
+
+.inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
